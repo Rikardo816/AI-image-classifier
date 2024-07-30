@@ -20,6 +20,7 @@ Las imagenes usadas para entrenenar este modelo están disponibles [aquí](https
 
 ### Backend
 - Python 3.x
+- Keras, Tensorflow
 - Flask
 
 ### Frontend
