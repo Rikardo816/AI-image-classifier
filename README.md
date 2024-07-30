@@ -2,6 +2,8 @@
 
 Este proyecto implementa un modelo de machine learning capaz de clasificar imágenes en tres categorías: nítidas, borrosas y desenfocadas. El modelo utiliza redes neuronales convolucionales y se ha desarrollado como parte de un sistema completo que incluye backend y frontend.
 
+Las imagenes usadas para entrenenar este modelo están disponibles [aquí](https://drive.google.com/drive/folders/12ZP1sytHa3Luigkegbj6qBbqaWz05xhc?usp=drive_link)
+
 ## Contenido del Repositorio
 
 - `notebook`: Notebook de Jupyter que contiene el proceso de entrenamiento del modelo.
